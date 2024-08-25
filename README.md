@@ -11,5 +11,5 @@ This repository is dedicated to tracking my progress through various Hack The Bo
 
 ---
 
-## HTB Certified Web Exploitation Expert (CWEE)
+Love Kris Yotam ❤️
 
